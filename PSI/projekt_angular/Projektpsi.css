@@ -1,0 +1,143 @@
+body {
+	font-family: Georgia, serif;
+	background-color: #000000;
+	color: #ffffff;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	font-size: 36px;
+	color: #007bff;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+
+h2 {
+	font-size: 24px;
+	color: #007bff;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+a {
+	color: #007bff;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #0056b3;
+	text-decoration: underline;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+thead {
+	background-color: #007bff;
+	color: #fff;
+}
+
+th, td {
+	padding: 10px;
+	text-align: left;
+}
+
+th:first-child, td:first-child {
+	width: 10%;
+}
+
+th:nth-child(2), td:nth-child(2) {
+	width: 15%;
+}
+
+th:nth-child(3), td:nth-child(3), th:nth-child(5), td:nth-child(5) {
+	width: 20%;
+}
+
+th:last-child, td:last-child {
+	width: 10%;
+}
+
+tr:hover {
+	background-color: #00ffea;
+}
+
+form {
+	background-color: #fff;
+	border: 1px solid #ddd;
+	padding: 20px;
+	border-radius: 5px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+form label {
+	display: block;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+form div {
+	margin-bottom: 10px;
+}
+
+form div input[type="radio"], form div input[type="checkbox"] {
+	display: inline-block;
+	margin-right: 5px;
+}
+
+form div input[type="text"], form select {
+	display: block;
+	width: 100%;
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	box-sizing: border-box;
+}
+
+form button[type="submit"], form button[type="button"] {
+	display: block;
+	margin-top: 10px;
+	padding: 10px;
+	background-color: #007bff;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+form button[type="submit"]:hover, form button[type="button"]:hover {
+	background-color: #0056b3;
+}
+
+form button[type="submit"]:disabled, form button[type="button"]:disabled {
+	background-color: #aaa;
+	cursor: not-allowed;
+}
+
+form .error {
+	color: red;
+	font-size: 12px;
+	margin-top: 5px;
+}
+img{
+	width: 300px;
+	height: 200px;
+}
+
+@media screen and (max-width: 768px) {
+	h1 {
+		font-size: 28px;
+		margin-top: 20px;
+		margin-bottom: 10px;
+	}
+
+	h2 {
+		font-size: 20px;
+		margin-top: 15px;
+		margin-bottom: 5px;
+	}
+}

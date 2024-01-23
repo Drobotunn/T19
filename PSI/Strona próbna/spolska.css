@@ -1,0 +1,56 @@
+body{
+    background: rgb(121, 4, 4);
+    text-align: center;
+
+    background-image: url('obraz3.jfif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.div1{
+    background: #cccccc;
+    border: 3px solid #acacac;
+    -webkit-text-fill-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    margin: 20px 200px;
+
+}
+.p1{
+    text-align: left;
+}
+.p2{
+    text-align: left;
+    
+}
+.p3{
+    text-align: left;
+    
+}
+.p4{
+    text-align: left;
+    
+}
+.p5{
+    text-align: left;
+    
+}
+.p6{
+    text-align: left;
+    
+}
+.p7{
+    text-align: left;
+    
+}
+.p8{
+    text-align: left;
+    
+}
+.p9{
+    text-align: left;
+    
+}
+.p10{
+    text-align: left;
+    
+}

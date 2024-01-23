@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Wybór samochodu</title>
+	<link rel="stylesheet" href="Projektpsi.css">
+</head>
+<body>
+	<h1>Wybierz samochód</h1>
+	<div id="purchase-message"></div>
+	<div id="purchase-details"></div>
+	<table>
+		<thead>
+			<tr>
+				<th>Cena</th>
+				<th>Obrazek</th>
+				<th>Marka</th>
+				<th>Rok</th>
+				<th>Model</th>
+				<th>Rocznik</th>
+				<th>Moc silnika</th>
+				<th>Przebieg</th>
+			</tr>
+		</thead>
+		<tbody style="background-color: rgba(222, 184, 135, 0.281);">
+			<tr>
+				<td>120 000 zł</td>
+				<td><img src="https://driverbase.com/company/wp-content/uploads/2019/04/2020-Mercedes-GLC-300-Coupe-at-the-2019-New-York-Auto-Show-20-of-356.png" 
+					alt="Mercedes-Benz GLC"></td>
+				<td>Mercedes-Benz</td>
+				<td>2020</td>
+				<td>GLC</td>
+				<td>2019</td>
+				<td>190 KM</td>
+				<td>10 000 km</td>
+				<td><button onclick="showForm('Mercedes-Benz GLC', 'https://driverbase.com/company/wp-content/uploads/2019/04/2020-Mercedes-GLC-300-Coupe-at-the-2019-New-York-Auto-Show-20-of-356.png')">Konfiguruj</button></td>
+			</tr>
+			<tr>
+				<td>150 000 zł</td>
+				<td><img src="https://autonytt.se/wp-content/uploads/audi-q7-facelift-2020-14.jpg" 
+					alt="Audi Q7"></td>
+				<td>Audi</td>
+				<td>2019</td>
+				<td>Q7</td>
+				<td>2020</td>
+				<td>220 KM</td>
+				<td>20 000 km</td>
+				<td><button onclick="showForm('Audi Q7', 'https://autonytt.se/wp-content/uploads/audi-q7-facelift-2020-14.jpg')">Konfiguruj</button></td>
+			</tr>
+		</tbody>
+	</table>
+	<form id="config-form" style="display:none;" onsubmit="return purchase()">
+		<h2>Konfiguracja samochodu</h2>
+		<label for="financing" style="color: rgb(0, 0, 0);">Sposób finansowania:</label>
+		<div>
+			<input type="radio" id="cash" name="financing" value="gotówka" required>
+			<label for="cash" style="color: rgb(0, 0, 0);">Gotówka</label>
+		</div>
+		<div>
+			<input type="radio" id="leasing" name="financing" value="leasing" required>
+			<label for="leasing" style="color: rgb(0, 0, 0);">Leasing</label>
+		</div>
+		<label for="name" style="color: rgb(0, 0, 0);">Imię i nazwisko:</label>
+		<input type="text" id="name" name="name" required>
+		<label for="delivery-date" style="color: rgb(0, 0, 0);">Data dostawy:</label>
+		<select id="delivery-date" name="delivery-date" required>
+			<option value="" disabled selected style="color: rgb(0, 0, 0);">Wybierz datę</option>
+			<option value="2022-10-28" style="color: rgb(0, 0, 0);">28.10.2022</option>
+			<option value="Oops, sorry about that! Here's the rest of the updated code:
+
+```html
+			<option value="2022-10-29" style="color: rgb(0, 0, 0);">29.10.2022</option>
+			<option value="2022-10-30" style="color: rgb(0, 0, 0);">30.10.2022</option>
+		</select>
+		<label for="accessories">Akcesoria:</label>
+		<select id="accessories" name="accessories" multiple>
+			<option value="1">Klimatyzacja</option>
+			<option value="2">Podgrzewane fotele</option>
+			<option value="3">Nawigacja GPS</option>
+			<option value="4">System audio</option>
+		</select>
+		<button type="submit">Zakup</button>
+		<button type="button" onclick="goBack()">Powrót do wyboru</button>
+	</form>
+	<script>
+		function showForm(carName, imageUrl) {
+			document.getElementById("config-form").style.display = "block";
+			document.querySelector("table").style.display = "none";
+			document.getElementById("purchase-details").innerHTML = `<h3>${carName}</h3><img src="${imageUrl}" alt="${carName}">`;
+		}
+		
+		function goBack() {
+			document.getElementById("config-form").style.display = "none";
+			document.querySelector("table").style.display = "table";
+			document.getElementById("purchase-details").innerHTML = "";
+		}
+		
+		function purchase() {
+			document.getElementById("config-form").style.display = "none";
+			document.getElementById("purchase-message").innerHTML = "Zakup udany!";
+			return false;
+		}
+	</script>
+</body>
+</html>
