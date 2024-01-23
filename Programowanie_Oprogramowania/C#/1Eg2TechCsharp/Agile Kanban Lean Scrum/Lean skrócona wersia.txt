@@ -1,0 +1,56 @@
+LEAN - to koncepcja zarządzania, wywodząca się z systemu produkcyjnego Toyoty, znana również jako Lean Management. Jej główne zasady obejmują:
+
+Określenie Wartości: 
+Wspólna analiza potrzeb klienta i producenta w celu zdefiniowania rzeczywistej wartości produktu oraz skoncentrowanie się na eliminacji marnotrawstwa.
+
+Identyfikacja Strumienia Wartości: 
+Analiza procesów od pozyskania surowca do uzyskania gotowego produktu, z podziałem na czynności tworzące wartość i eliminację marnotrawstwa.
+
+Przepływ: 
+Dążenie do płynnego przepływu strumienia wartości, eliminacja przeszkód i dostosowanie planu produkcji do rzeczywistych potrzeb.
+
+Ssanie (Pull): 
+Produkcja dokładnie tyle, ile jest potrzebne, sterowana przez zamówienia klientów, co prowadzi do skrócenia cyklu produkcyjnego i zmniejszenia zapasów.
+
+Doskonałość: 
+Stałe doskonalenie procesów poprzez ciągłe doskonalenie (Kaizen) i wprowadzanie radykalnych zmian (Kaikaku).
+
+
+
+Dodatkowe aspekty Lean Management obejmują:
+
+Orientacja na Klienta: 
+Optymalizacja działań pod kątem potrzeb klienta.
+
+Prostota: 
+Unikanie skomplikowanych procesów, technologii i systemów.
+
+Wizualizacja: 
+Prezentacja wyników w sposób graficzny dla łatwiejszego monitorowania postępów.
+
+Regularność: 
+Rytmiczna produkcja, eliminująca zaskakujące sytuacje.
+
+Zapobieganie: 
+Skupianie się na zapobieganiu problemom, nie tylko na ich kontroli.
+
+Czas: 
+Skracanie cyklu produkcji i dostawy.
+
+Współpraca: 
+Współpraca zarówno wewnątrz organizacji, jak i z dostawcami zewnętrznymi.
+
+Kontrola Osobista (Gemba): 
+Sprawdzanie faktycznych warunków na miejscu pracy.
+
+Zarządzanie Odchyleniami: 
+Zmniejszanie odchyleń od stanów pożądanych w procesie.
+
+Uczestnictwo: 
+Angażowanie pracowników w rozwiązywanie problemów i współodpowiedzialność za wyniki.
+
+Zapewnienie Partnerskie: 
+Budowanie zaufania poprzez współpracę z partnerami.
+
+
+Koncepcja Lean Enterprise obejmuje zarówno procesy produkcyjne, jak i informacyjno-decyzyjne organizacji, skupiając się na eliminacji marnotrawstwa i efektywnym wykorzystaniu zasobów w całej firmie.

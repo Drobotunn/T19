@@ -1,0 +1,54 @@
+1. Definicja Kanban
+
+2. Geneza Kanban (kan bahn)
+
+3. Zasady Kanban - zasady zarządzania zmianą - wypisać i krótko opisać
+
+4. Zasady Kanban - zasady dostarczania usług - wypisać i krótko opisać
+
+5. Kadencje w Kanban (pętle zwrotne)
+
+6. Role (4-5 ról)
+
+7. Metryki
+
+8. Wizualizacja (tablica i karta, WIP)
+
+
+1. Definicja Kanban:
+Kanban - to metoda zarządzania pracą, wywodząca się z japońskiego Systemu Produkcyjnego Toyota, opierająca się na wizualizacji pracy.
+
+2. Geneza Kanban:
+Pochodzi z lat 40. XX wieku, wprowadzona przez Toyotę do optymalizacji produkcji poprzez kartki (Kanban) wizualizujące przepływ pracy.
+
+3. Zasady Kanban - Zarządzanie Zmianą:
+Zaczynaj tam, gdzie jesteś
+Zastosuj inkrementalne zmiany
+Respektuj role, procesy i zasady
+
+4. Zasady Kanban - Dostarczanie Usług:
+Wizualizuj pracę
+Ogranicz pracę w toku (WIP)
+Ustal flow
+
+5. Kadencje w Kanban (Pętle Zwrotne):
+Regularne spotkania
+Przegląd procesu
+Dostosowywanie zasobów
+
+6. Role (4-5 ról):
+Klient
+Zespół Kanban
+Koordynator/Scrum Master
+Właściciel Produktu
+Zarząd (opcjonalnie)
+
+7. Metryki:
+Czas Przepływu Zadania
+WIP (Work in Progress)
+Cykl Pracy
+
+8. Wizualizacja (Tablica i Karta, WIP):
+Tablica Kanban
+Karta Zadania
+Ograniczenie Pracy w Toku (WIP)

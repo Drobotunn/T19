@@ -1,0 +1,9 @@
+
+Agile to podejście do produkcji oprogramowania, oparte na iteracyjnym i przyrostowym programowaniu. 
+Manifest Agile, ustanowiony w 2001 roku, kładzie nacisk na wartość jednostek i interakcji, działające oprogramowanie, współpracę z klientem oraz reagowanie na zmiany. 
+Dziewięć zasad Agile, m.in. zadowolenie klienta, elastyczność w zmianach wymagań, częste dostarczanie działającego oprogramowania, współpraca między zespołami, 
+motywacja zespołu, komunikacja twarzą w twarz, i ciągłe doskonalenie, stanowią podstawę podejścia Agile.
+
+Metodyki zwinne, takie jak Scrum, Kanban, Lean, i XP, są implementacjami zasad Agile. 
+Ostatecznym celem jest elastyczność w dostarczaniu wartości klientowi, a Agile jest szerokim pojęciem obejmującym różnorodne podejścia i praktyki, 
+które można dostosować do konkretnych projektów i zespołów.
