@@ -1,0 +1,7 @@
+C:\Users\evgen\source\repos\Projektowanie_objektowe\Metody_opisu\Metody_opisu\bin\Debug\Metody_opisu.exe.config
+C:\Users\evgen\source\repos\Projektowanie_objektowe\Metody_opisu\Metody_opisu\bin\Debug\Metody_opisu.exe
+C:\Users\evgen\source\repos\Projektowanie_objektowe\Metody_opisu\Metody_opisu\bin\Debug\Metody_opisu.pdb
+C:\Users\evgen\source\repos\Projektowanie_objektowe\Metody_opisu\Metody_opisu\obj\Debug\Metody_opisu.csproj.AssemblyReference.cache
+C:\Users\evgen\source\repos\Projektowanie_objektowe\Metody_opisu\Metody_opisu\obj\Debug\Metody_opisu.csproj.CoreCompileInputs.cache
+C:\Users\evgen\source\repos\Projektowanie_objektowe\Metody_opisu\Metody_opisu\obj\Debug\Metody_opisu.exe
+C:\Users\evgen\source\repos\Projektowanie_objektowe\Metody_opisu\Metody_opisu\obj\Debug\Metody_opisu.pdb
